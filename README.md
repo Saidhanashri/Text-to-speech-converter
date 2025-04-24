@@ -10,6 +10,9 @@ This is a clean and responsive web-based **Text-to-Speech Converter** that allow
 - Responsive UI with intuitive **icons and card layout**
 - Cross-browser support (works best in Chrome and Edge)
 
+### 📸 Screenshot
+[Screenshot 2025-04-24 180411](https://github.com/user-attachments/assets/40ac1495-8be3-469d-bc73-d7cfc7f37df6)
+
 ## 💡 How It Works
 The app uses the built-in `SpeechSynthesisUtterance` API available in most modern browsers to synthesize speech. Users can choose from the available voices installed in their browser, making it highly customizable.
 
